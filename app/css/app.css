@@ -1,0 +1,19 @@
+body {
+  font-family: 'Merriweather', serif;
+  padding-top: 50px;
+}
+p {
+  font-family: 'Merriweather', serif;
+  padding-top: 20px;
+}
+a {
+  color: #000;
+}
+.signature {
+  font-family: 'Rock Salt', cursive;
+  font-size: 150%
+}
+
+.icon-bar-reverse {
+  background-color:black
+}
